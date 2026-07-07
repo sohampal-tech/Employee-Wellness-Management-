@@ -1,11 +1,6 @@
-# Employee Wellness Management Analytics
-
-## Project Objective
-
-**Employee Wellness Management Analytics** is an AI-powered Employee Wellness Management System designed to help users securely register, log in, upload employee wellness datasets, and analyze wellness-related data.
-
-The application is developed using **Streamlit**, **PostgreSQL (Neon Database)**, and **JWT Authentication**. The project is developed and tested using **Google Colab** and can be accessed through an **ngrok public URL**. Deployment support using **Hugging Face Spaces** is also planned.
-
+## Milestone 1
+## Objective
+Develop a secure Employee Wellness Management System with user authentication.
 ## Technologies Used
 
 * Python
