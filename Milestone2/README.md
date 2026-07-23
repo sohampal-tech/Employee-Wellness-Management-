@@ -53,13 +53,13 @@ The objective of this milestone is to develop an efficient Natural Language Proc
 
 ## Output Screenshots
 
-File Uploading Page
-Cleaned Text Output
-Tokenization Output
-Sentence Segmentation Output
-Translation and Lemmatization Output
-Emoji and Sentiment Processing
-Dominant Emotion and Processing Statistics
+- File Uploading Page
+- Cleaned Text Output
+- Tokenization Output
+- Sentence Segmentation Output
+- Translation and Lemmatization Output
+- Emoji and Sentiment Processing
+- Dominant Emotion and Processing Statistics
 
 
- ## Infosys Springboard Internship 7.0
+ 
