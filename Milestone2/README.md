@@ -51,8 +51,6 @@ The objective of this milestone is to develop an efficient Natural Language Proc
 
 ---
 
----
-
 ## Output Screenshots
 
 File Uploading Page
